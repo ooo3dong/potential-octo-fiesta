@@ -7,7 +7,7 @@
 
 i studied R specially about Git today.
 
-it's really awesome but i can tell our road looks dark. 
+it's really awesome but i can tell our road looks dark i mean i'm gonna study hard. 
 
 ## how to start git
 1. download git
