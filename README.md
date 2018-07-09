@@ -9,6 +9,9 @@ i studied R specially about Git today.
 
 it's really awesome but i can tell our road looks dark i mean i'm gonna study hard. 
 
+that's okay. i'll do my best all the time so whenever i meet hardwork even i can't make it, i'll always just do it as long as i can.
+
+18.07.09
 ## how to start git
 1. download git
 2. open git bash
